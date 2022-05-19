@@ -13,4 +13,8 @@
     command for powershell are known as cmdlets. allow you to run any command in your system
     cmdlets are collected into powershell modules that can be loaded on command
 
-        Get
+# variables 
+
+    debug can be based on highlight
+    variable bound to particular session
+
