@@ -8,3 +8,9 @@
 
     extensions: powershell 
                 azure powershell tools
+    
+-   cmdlet  
+    command for powershell are known as cmdlets. allow you to run any command in your system
+    cmdlets are collected into powershell modules that can be loaded on command
+
+        Get
