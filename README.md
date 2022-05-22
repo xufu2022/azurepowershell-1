@@ -18,3 +18,6 @@
     debug can be based on highlight
     variable bound to particular session
 
+# Azure Authentication
+
+authentication is embedded in your system
