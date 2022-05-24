@@ -21,3 +21,7 @@
 # Azure Authentication
 
 authentication is embedded in your system
+
+control+space for terraform
+
+terraform 5 done 2
